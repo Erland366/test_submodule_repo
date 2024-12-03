@@ -16,7 +16,9 @@ table_rows = ""
 for path in paths:
     notebook_name = os.path.basename(path)
     notebook_link = base_url + path
-    table_rows += f"| {notebook_name} | [Open in Colab]({notebook_link}) |\n"
+    table_rows += (
+        f"| {notebook_name.replace('_', ' ')} | [Open in Colab]({notebook_link}) |\n"
+    )
 
 # Combine header and rows
 markdown_table = table_header + table_rows
