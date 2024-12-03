@@ -1,0 +1,30 @@
+| Notebook | Link |
+| --- | --- |
+| ChatML_+_chat_templates_+_Mistral_v3_7b_full_example.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/Others/ChatML_+_chat_templates_+_Mistral_v3_7b_full_example.ipynb) |
+| Unsloth_Studio_Chat_Llama_3_1_8b_Instruct.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/Others/Unsloth_Studio_Chat_Llama_3_1_8b_Instruct.ipynb) |
+| DPO_Zephyr_Unsloth_Example.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/Others/DPO_Zephyr_Unsloth_Example.ipynb) |
+| ChatML_+_CodeGemma_7b_full_example.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/Others/ChatML_+_CodeGemma_7b_full_example.ipynb) |
+| Ollama_+_Unsloth_+_Llama_3_+_Alpaca.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/Others/Ollama_+_Unsloth_+_Llama_3_+_Alpaca.ipynb) |
+| ORPO_Unsloth_Example.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/Others/ORPO_Unsloth_Example.ipynb) |
+| Continued_pretraining_Korean_+_Unsloth.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/Others/Continued_pretraining_Korean_+_Unsloth.ipynb) |
+| Unsloth_SFT.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/Others/Unsloth_SFT.ipynb) |
+| Pixtral_Vision_Finetuning_Unsloth_General_Dataset.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/VLM/Pixtral_Vision_Finetuning_Unsloth_General_Dataset.ipynb) |
+| Llama_3_2_Vision_Finetuning_Unsloth_Radiography.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/VLM/Llama_3_2_Vision_Finetuning_Unsloth_Radiography.ipynb) |
+| Qwen2_Vision_Finetuning_Unsloth_Maths_OCR.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/VLM/Qwen2_Vision_Finetuning_Unsloth_Maths_OCR.ipynb) |
+| Llama_3_2_1B+3B_Conversational_+_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Llama_3_2_1B+3B_Conversational_+_2x_faster_finetuning.ipynb) |
+| Mistral_7b_Text_Completion_Raw_Text_training_full_example.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Mistral_7b_Text_Completion_Raw_Text_training_full_example.ipynb) |
+| Alpaca_+_Gemma2_9b_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Alpaca_+_Gemma2_9b_Unsloth_2x_faster_finetuning.ipynb) |
+| Alpaca_+_TinyLlama_+_RoPE_Scaling_full_example.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Alpaca_+_TinyLlama_+_RoPE_Scaling_full_example.ipynb) |
+| Alpaca_+_Llama_3_8b_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Alpaca_+_Llama_3_8b_Unsloth_2x_faster_finetuning.ipynb) |
+| Alpaca_+_Mistral_v3_7b_full_example.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Alpaca_+_Mistral_v3_7b_full_example.ipynb) |
+| Gemma_2_2b_+_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Gemma_2_2b_+_Unsloth_2x_faster_finetuning.ipynb) |
+| Llama_3_1_8b_2x_faster_inference.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Llama_3_1_8b_2x_faster_inference.ipynb) |
+| KTO-Unsloth-Example.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/KTO-Unsloth-Example.ipynb) |
+| Alpaca_+_Qwen2_7b_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Alpaca_+_Qwen2_7b_Unsloth_2x_faster_finetuning.ipynb) |
+| Phi_3_5_Instruct_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Phi_3_5_Instruct_Unsloth_2x_faster_finetuning.ipynb) |
+| Qwen_2_5_+_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Qwen_2_5_+_Unsloth_2x_faster_finetuning.ipynb) |
+| Mistral_Small_22b_+_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Mistral_Small_22b_+_Unsloth_2x_faster_finetuning.ipynb) |
+| Llama_3_1_8b_+_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Llama_3_1_8b_+_Unsloth_2x_faster_finetuning.ipynb) |
+| Qwen_2_5_Coder_14B_Conversational_+_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Qwen_2_5_Coder_14B_Conversational_+_2x_faster_finetuning.ipynb) |
+| Alpaca_+_Mistral_Nemo_12b_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Alpaca_+_Mistral_Nemo_12b_Unsloth_2x_faster_finetuning.ipynb) |
+| Phi_3_Medium_4K_Instruct_Unsloth_2x_faster_finetuning.ipynb | [Open in Colab](https://colab.research.google.com/github/Erland366/unsloth-notebooks/blob/master/notebooks/LLM/Phi_3_Medium_4K_Instruct_Unsloth_2x_faster_finetuning.ipynb) |
