@@ -180,9 +180,9 @@ def main():
 
 def update_readme(readme_path, notebooks_dir, type_order=None):
     base_url_colab = (
-        "https://colab.research.google.com/github/Erland366/notebooks/blob/main/"
+        "https://colab.research.google.com/github/Erland366/notebooks/blob/master/"
     )
-    base_url_kaggle = "https://www.kaggle.com/notebooks/welcome?src=https://github.com/Erland366/notebooks/blob/main/"
+    base_url_kaggle = "https://www.kaggle.com/notebooks/welcome?src=https://github.com/Erland366/notebooks/blob/master/"
 
     paths = glob(os.path.join(notebooks_dir, "*.ipynb"))
 
