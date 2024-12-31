@@ -66,6 +66,8 @@ If you'd like to contribute to our notebooks, here's a guide to get you started:
     ```
     This script will automatically:
     *   Copy your notebook from `original_template` to the `notebooks` directory.
+  
+Hello world
     *   Update the notebook's internal sections (like Installation, News) to ensure consistency.
     *   Add your notebook to the appropriate list in this `README.md` file.
 5. **Create a Pull Request:** After that, just create a pull request (PR) to merge your changes, making it available for everyone!
